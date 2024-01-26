@@ -1,0 +1,14 @@
+/* About page custom styling */
+.about-section {
+    padding: 2rem 0;
+  }
+  
+  .profile-image {
+    max-width: 200px; /* Adjust size as needed */
+    margin-bottom: 1rem;
+  }
+  
+  .about-text {
+    line-height: 1.6;
+  }
+  
